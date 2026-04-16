@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Pedro Henrique
 
-<!--
-**pedroz007/pedroz007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor em formação com foco em Backend (Java + Spring Boot)
 
-Here are some ideas to get you started:
+Atualmente estudando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Engenharia de Software
+* Desenvolvimento de APIs REST
+* Spring Boot
+* Banco de Dados (SQL)
+
+💻 Tecnologias:
+
+* Java
+* Spring Boot
+* Python
+* Git e GitHub
+
+🚀 Projetos em destaque:
+
+🔹 Sistema de tarefas (MyTasks) [Desenvolvimento]
+→ API para gerenciamento de usuários e tarefas
+
+🔹 E-commerce Fullstack [Desenvolvimento]
+→ Aplicação completa com backend em Java
+
+🔹 Resolução de Congruências (TCR)
+→ Implementação de conceitos matemáticos em software
+
+📫 Contato:
+
+* LinkedIn: 
+* Email: ph5987032@gmail.com
